@@ -5,6 +5,7 @@ public class Sample {
 		System.out.println("Hi Master");
 		System.out.println("Hi Raj");
 		System.out.println("Hi i need anand and abhilash");
+		System.out.println("Anand and Abhilash");
 		
 		
 	}
