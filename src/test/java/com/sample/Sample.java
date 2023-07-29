@@ -3,9 +3,7 @@ package com.sample;
 public class Sample {
 	public static void main(String[] args) {
 		System.out.println("Hi Master");
-		System.out.println("Hi Kavi");
-		System.out.println("Hi Abhilash");
-		System.out.println("Hi Anand");
+		System.out.println("Hi Raj");
 		
 	}
 
