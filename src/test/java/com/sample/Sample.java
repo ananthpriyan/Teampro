@@ -5,5 +5,4 @@ public class Sample {
 		System.out.println("Hi Master");
 		System.out.println("Hi Anand do from starting");
 	}
-
 }
